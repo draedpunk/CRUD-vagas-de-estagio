@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 2,
+        "Funcao": "Assistente Juridico",
+        "Curso": "Direito",
+        "Periodo Minimo": 7,
+        "Turno": "Matutino",
+        "Bolsa": 1400.0,
+        "Auxilio Transporte": "sim",
+        "Idade Minima": 17,
+        "Status": "aberta",
+        "Prazo": "01/12/2024"
+    },
+    {
+        "Id": 3,
+        "Funcao": "CLT",
+        "Curso": "Letras",
+        "Periodo Minimo": 4,
+        "Turno": "Matutino",
+        "Bolsa": 1400.0,
+        "Auxilio Transporte": "Não",
+        "Idade Minima": 19,
+        "Status": "aberta",
+        "Prazo": "30/03/2025"
+    }
+]

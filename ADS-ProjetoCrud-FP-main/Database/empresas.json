@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 2,
+        "Nome": "Mundinho",
+        "Area": "Venda de Eletronicos",
+        "Email": "mundotech@gmail.com",
+        "Site": "www.mundotech.com.br",
+        "Telefone": "(081) 3433-0565",
+        "Endereco": "Av. Domingos Ferreira"
+    },
+    {
+        "Id": 5,
+        "Nome": "ShowPlus",
+        "Area": "",
+        "Email": "",
+        "Site": "",
+        "Telefone": "",
+        "Endereco": ""
+    },
+    {
+        "Id": 6,
+        "Nome": "BlueTech",
+        "Area": "Tecnologia",
+        "Email": "blue@gmail.com",
+        "Site": "blue.com.br",
+        "Telefone": "81997686574",
+        "Endereco": "Rua do Blue"
+    },
+    {
+        "Id": 8,
+        "Nome": "rom$nd",
+        "Area": "Beleza",
+        "Email": "romand@korea.co",
+        "Site": "www.romand.co.kr",
+        "Telefone": "9999-8888",
+        "Endereco": "Seoul, Coreia do Sul"
+    }
+]

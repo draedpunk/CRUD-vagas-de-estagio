@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Pamela",
+        "curso": "ADS",
+        "periodo": 3,
+        "turno": "Noite"
+    },
+    {
+        "nome": "Hyngrid",
+        "curso": "ADS",
+        "periodo": 4,
+        "turno": "Noturno"
+    },
+    {
+        "nome": "Aeda",
+        "curso": "Direito",
+        "periodo": 6,
+        "turno": "Vespertino"
+    }
+]
